@@ -1,5 +1,12 @@
 # MIST4610Project2
 
+## Group Members
+Jackson Boyer
+Rong Xin Hu
+Justus Nour
+Trey Trotti 
+Sophie Yoo
+
 Data Set: Hate Crimes by County and Bias Type Beginning 2010
 
 https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010 
