@@ -4,7 +4,7 @@ Data Set: Hate Crimes by County and Bias Type Beginning 2010
 
 https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010 
 
-## Describing the Dataset and What It Contains
+Describing the Dataset and What It Contains
 The dataset used for this project is titled “Hate Crimes by County and Bias Type, Beginning 2010.” It was obtained from the U.S. Data.gov open data portal and published by the New York State Division of Criminal Justice Services.
 This dataset provides annual counts of reported hate crime incidents, victims, and offenders in New York State, organized by county, year, and bias motivation. The bias categories include race, ethnicity, religion, sexual orientation, gender identity, disability, and other demographic characteristics. The data begins in 2010 and extends through recent years, allowing for meaningful trend and comparison analysis.
 At the time of analysis, the dataset contained 822 rows (observations) and 44 columns (variables). Each row represents the number of hate crimes recorded in a specific county and year, separated into “Crimes Against Persons” and “Property Crimes.”
@@ -89,8 +89,6 @@ Collectively, the results suggest that hate crime activity in New York is shaped
 
 
 Visualizations
-
-
 
 
 Citations
