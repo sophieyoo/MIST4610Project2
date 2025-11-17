@@ -4,7 +4,7 @@
 Group 7
 
 ## Group Members
-Jackson Boyer: https://github.com/Jackson9812/MIST4610-Project-2/tree/main 
+Jackson Boyer: [https://Jackson9812/MIST4610-Project-2]https://github.com/Jackson9812/MIST4610-Project-2/tree/main 
 Rong Xin Hu:
 Justus Nour: https://github.com/justusnour/MIST4610Project2
 Trey Trotti:
