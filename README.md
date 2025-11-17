@@ -1,5 +1,8 @@
 # MIST4610Project2
 
+## Team Name
+Group 7
+
 ## Group Members
 Jackson Boyer
 Rong Xin Hu
