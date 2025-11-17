@@ -4,11 +4,11 @@
 Group 7
 
 ## Group Members
-Jackson Boyer
-Rong Xin Hu
-Justus Nour
-Trey Trotti 
-Sophie Yoo
+Jackson Boyer: https://github.com/Jackson9812/MIST4610-Project-2/tree/main 
+Rong Xin Hu:
+Justus Nour: https://github.com/justusnour/MIST4610Project2
+Trey Trotti:
+Sophie Yoo: https://github.com/sophieyoo/MIST4610Project2
 
 Data Set: Hate Crimes by County and Bias Type Beginning 2010
 
