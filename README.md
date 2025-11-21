@@ -4,7 +4,7 @@
 Group 7
 
 ## Group Members
-Jackson Boyer: (https://github.com/Jackson9812)
+https://github.com/Jackson9812: (https://github.com/Jackson9812)
 
 Rong Xin Hu: (https://github.com/RongX02)
 
